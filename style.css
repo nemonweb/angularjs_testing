@@ -1,0 +1,34 @@
+.count-directive--dec {
+    position: absolute;
+    width: 17px;
+    left: 5px;
+    top: 8px;
+}
+
+.count-directive--inc {
+    position: absolute;
+    width: 17px;
+    right: 5px;
+    top: 8px;
+}
+
+.count-directive--count {
+    width: 100%;
+    display: block;
+    float: left;
+    left: 9px;
+    height: 35px;
+    margin-right: 112px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid rgb(230, 230, 230);
+    text-align: center;
+    line-height: 35px;
+    font-size: 10px;
+}
+
+.count-directive {
+    width: 70px;
+    position: relative;
+}

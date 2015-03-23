@@ -1,0 +1,3 @@
+run karma
+
+run protractor
